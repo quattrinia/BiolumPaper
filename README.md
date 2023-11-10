@@ -4,6 +4,7 @@ Depth Range Reconstruction Code that accompanies DeLeo et al. in review: Evoluti
 
 
 ###RevBayes-tutorial here https://revbayes.github.io/tutorials/biogeo/biogeo_simple.html ####
+
 range_fn ="/scratch/nmnh_corals/quattrinia/analysis/UCE/octos21/biolumpaper/revbayes/depthrangev_final.nex" 
 tree_fn = "/scratch/nmnh_corals/quattrinia/analysis/UCE/octos21/biolumpaper/revbayes/octo.mcc.mean.tree"
 out_fn="/scratch/nmnh_corals/quattrinia/analysis/UCE/octos21/biolumpaper/deep4v3"
